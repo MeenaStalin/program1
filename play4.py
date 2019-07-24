@@ -1,0 +1,2 @@
+assure=input()
+print(assure+".")
